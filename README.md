@@ -1,7 +1,7 @@
 # Voice_Recognition
 About This repository contains the code for the speech recognition in python and also the code of pretrained model from facebook team.
 
-#I strongly recommend to go through the article here to understand the basics of signal processing prior implementing the speech to text.
+I strongly recommend to go through the article here to understand the basics of signal processing prior implementing the speech to text.
 
 Understanding the Problem Statement for our Speech-to-Text Project
 
